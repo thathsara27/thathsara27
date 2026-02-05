@@ -5,28 +5,27 @@
 </div>
 
 <div align="center">
-  <b>Full-Stack Developer | MERN Specialist | API Architect</b>
+  <b>Building scalable systems with modern architecture.</b>
 </div>
 <br>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="40%" valign="top">
+    <td width="30%" valign="top">
        <div align="center">
-        <img src="https://github.com/thathsara27.png" width="200" style="border-radius: 15px;" alt="Mahesh Thathsara" />
+        <img src="https://github.com/thathsara27.png" width="180" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Mahesh Thathsara" />
         <br><br>
         <img src="https://komarev.com/ghpvc/?username=thathsara27&style=flat-square&color=blue" alt="Profile Views" />
       </div>
     </td>
-    <td width="60%" valign="top">
+    <td width="5%"></td>
+    <td width="65%" valign="top">
       
 <h3>🚀 Professional Focus</h3>
 
 <details>
 <summary><b>💻 Full-Stack Engineering</b></summary>
 <br>
-  
-  > *"Building robust systems from the ground up."*
   
   * **System Architecture:** Designing scalable MERN stack applications with clean architecture.
   * **API Development:** Creating RESTful services with Node.js and Express.
@@ -39,7 +38,6 @@
 
   * **Database Management:** Expert in MongoDB aggregation and MySQL relational design.
   * **Cloud Integration:** Deploying scalable solutions on Firebase and cloud platforms.
-  * **Real-time Data:** Handling live data streams with Apache Beam connectors.
 </details>
 
 <details>
@@ -48,37 +46,83 @@
 
 * **BSc (Hons) in Information Technology**
     * *SLIIT (Sri Lanka Institute of Information Technology)*
-    * Focus: Software Engineering & Application Development
 </details>
 
    </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🛠️ Technical Arsenal
+<h3>🛠️ Technical Arsenal</h3>
 
 <div align="center">
 
-| **Frontend Development** | **Backend Engineering** | **DevOps & Tools** |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
+<h4>App & Interface Engineering</h4>
+<table>
+  <tr>
+    <td align="center" width="120"><b>Frameworks</b></td>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="center" width="120"><b>Styling</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h4>Server-Side & Infrastructure</h4>
+<table>
+  <tr>
+    <td align="center" width="120"><b>Runtime</b></td>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="center" width="120"><b>DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<br>
 
-### 🌐 Let's Collaborate
+<h3>🌐 Let's Collaborate</h3>
 
 <div align="center">
 
-| [LinkedIn](https://www.linkedin.com/in/mahesh-thathsara-19b989314) | [Email](mailto:thathsaramahesh1227@gmail.com) | [GitHub Projects](https://github.com/thathsara27?tab=repositories) |
+| **Socials** | **Contact** | **Portfolio** |
 | :---: | :---: | :---: |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin) | ![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-View_Work-181717?style=for-the-badge&logo=github) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahesh-thathsara-19b989314) | [![Email](https://img.shields.io/badge/Gmail-Write_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thathsaramahesh1227@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-View_Work-181717?style=for-the-badge&logo=github)](https://github.com/thathsara27?tab=repositories) |
 
 </div>
 
@@ -89,18 +133,14 @@ class FullStackEngineer:
     def __init__(self):
         self.name = "Mahesh Thathsara"
         self.role = "Full-Stack Developer"
-        self.skills = {
-            "frontend": ["React.js", "Flutter", "Tailwind"],
-            "backend": ["Node.js", "Express", "Python"],
-            "database": ["MongoDB", "MySQL", "Firebase"],
-            "tools": ["Docker", "Git", "Apache Beam"]
+        self.stack = {
+            "app": ["React", "Flutter", "Tailwind"],
+            "server": ["Node.js", "Express", "Python"],
+            "data": ["MongoDB", "MySQL", "Firebase"]
         }
 
-    def collaborate(self):
-        print(f"As a {self.role}, I excel in:")
-        print("- Transforming complex requirements into code")
-        print("- Building scalable MERN architectures")
-        print("- Creating seamless user experiences")
+    def build_future(self):
+        print(f"Designing scalable solutions with {self.stack['server'][0]} & {self.stack['app'][0]}.")
 
 me = FullStackEngineer()
-me.collaborate()
+me.build_future()
