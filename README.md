@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-   <a href="mailto:sa24610447@my.sliit.lk">
-    <img src="https://img.shields.io/badge/Email-sa24610447%40my.sliit.lk-red?style=flat-square&logo=gmail" alt="Email" />
+   <a href="mailto:thathsaramahesh1227@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thathsaramahesh1227%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/mahesh-thathsara-19b989314">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -37,16 +37,3 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top">
-  <div align="center">
-    <img src="https://github.com/thathsara27.png" width="200" style="border-radius: 50%;" alt="Mahesh Thathsara" />
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=thathsara27&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Stats" />
-  </div>
-</td>
-
-</tr></table>🛠️ Technical Arsenal<div align="center">FrontendBackendData & Tools</div>🔭 Featured ProjectsGeoFlutterFire: An open-source library for storing and querying Firestore documents based on geographic location.Library Management System: A comprehensive MERN stack solution with automated book tracking.Beam MySQL Connector: A custom Apache Beam I/O connector for seamless MySQL integration.<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dthathsara27%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Langs" /></p>
