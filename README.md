@@ -14,7 +14,7 @@
 
 ### About
 
-Full-stack developer in training, building with MERN and PHP/MySQL. I care about clean, well-tested code and turning data into useful insight.
+Full stack developer in training, building with MERN and PHP/MySQL. I care about clean, well tested code and turning data into useful insight.
 
 - ⌖ **Location** · Colombo, Sri Lanka
 - ⌗ **Experience** · Academic + personal projects in full-stack web development, data analysis, and QA testing
