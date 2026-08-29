@@ -1,61 +1,83 @@
 <div align="center">
-
-<img src="https://github.com/thathsara27.png" width="140" style="border-radius: 50%;" alt="Mahesh Thathsara" />
-
-# Mahesh Thathsara
-
-### Aspiring Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=460&lines=Full-Stack+Developer+(MERN+%26+PHP%2FMySQL);Data+Analysis+with+Python+%26+Power+BI;QA+%26+Software+Testing" alt="Typing SVG" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-thathsara-19b989314)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thathsaramahesh1227@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thathsara27?tab=repositories)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Mahesh%20Thathsara&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Computer%20Science%20Student&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mahesh Thathsara banner"/>
 </div>
-
-<br>
-
-## Profile
-
-Computer Science undergraduate at SLIIT City University, Colombo, working toward a career as a **Full-Stack Developer**. My academic and personal work spans building web applications end-to-end, analyzing data for real-world decisions, and testing software for quality — the range I'd bring to an engineering team.
-
-<br>
-
-## What I Bring
-
-- **Full-Stack Engineering** — building complete web applications with the MERN stack and PHP/MySQL, from database schema to deployed UI
-- **API & Backend Design** — RESTful services with Node.js & Express, relational and document databases (MySQL, MongoDB)
-- **Data Analysis** — using Python, Pandas, and Power BI to turn raw data into insight
-- **Quality Assurance** — testing software to catch issues before they reach users
-
-<br>
-
-## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nodejs,express,php,python,mongodb,mysql,firebase,docker,git&theme=dark" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Shipping%20polished%20web%20apps%20with%20MERN%20%26%20PHP%2FMySQL;Open%20to%20thoughtful%20collaboration%20%26%20internships;Turning%20data%20into%20insight%20with%20Python%20%26%20Power%20BI)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-thathsara-19b989314) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/27Mahiya) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maheshthathsara1227) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thathsaramahesh1227@gmail.com)
+
+![Open to internships](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20internships-a855f7?style=flat-square) ![Colombo, Sri Lanka](https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-333?style=flat-square)
 
 </div>
 
-<br>
+### About
 
-## Education
+Full-stack developer in training, building with MERN and PHP/MySQL. I care about clean, well-tested code and turning data into useful insight.
 
-**BSc (Hons) in Information Technology / Computer Science**
-SLIIT City University, Colombo, Sri Lanka — Software Engineering & Application Development
+- ⌖ **Location** · Colombo, Sri Lanka
+- ⌗ **Experience** · Building projects in Data Science, Analytics & Software Development
+- ◎ **Education** · BSc (Hons) in Computer Science
+- ⟳ **Learning** · Data Science, Data Analytics, Machine Learning & Python
+- ✦ **Fun fact** · I enjoy turning real-world data into meaningful insights.
 
-<br>
+### Stack
 
-## Let's Connect
+**Languages**
 
-Open to full-stack developer roles, internships, and collaboration on interesting projects.
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,figma&theme=dark" alt="DevOps & Cloud"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pandas,jupyter&theme=dark" alt="AI / ML"/>
+
+### Languages
+- 🌐 **Sinhala** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+
+### GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thathsara27&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thathsara27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Mahesh Thathsara stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thathsara27&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Mahesh Thathsara top languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thathsara27&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
+
+</div>
+
+> Requires [Novatorem](https://github.com/novatorem/novatorem) setup
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/thathsara27">github.com/thathsara27</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
