@@ -1,20 +1,26 @@
 <div align="center">
   <img src="https://github.com/thathsara27.png" width="200" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" alt="Mahesh Thathsara" />
-  
+
   <br><br>
 
-  # Hi, I'm Mahesh Thathsara
-  
+  # Hi, I'm Mahesh Thathsara 👋
+
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+PHP%2FMySQL+Developer;Data+Analytics+Enthusiast;QA+%26+Testing" alt="Typing SVG" />
   </p>
 
-  <code><b>Full-Stack Developer</b></code> | <code><b>MERN Specialist</b></code> | <code><b>API Architect</b></code>
+  <code><b>Full-Stack Developer</b></code> | <code><b>MERN Stack</b></code> | <code><b>Data Analysis</b></code> | <code><b>QA Testing</b></code>
 
   <br><br>
-  
-  <h3 style="color: #61dafb;">Architecting Scalable Web & Cloud Solutions</h3>
+
+  <h3 style="color: #61dafb;">Building Web Apps, Analyzing Data, and Learning by Shipping Real Projects</h3>
 </div>
+
+<br>
+
+## 👨‍💻 About Me
+
+I'm a Computer Science undergraduate, working across full-stack web development, data analysis, and QA testing. I like taking projects from a rough first draft to something properly structured — fixing bugs, cleaning up architecture, and adding polish.
 
 <br>
 
@@ -60,6 +66,8 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
       <br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center">
@@ -71,6 +79,28 @@
       <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/MVC-000000?style=flat-square&logo=box&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<h4>Data & Analytics</h4>
+<table>
+  <tr>
+    <td align="center" width="150"><b>Analysis</b></td>
+    <td align="center" width="150"><b>Visualization</b></td>
+    <td align="center" width="150"><b>Testing</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/QA_Testing-25A162?style=flat-square&logo=testinglibrary&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -98,18 +128,33 @@
 </div>
 </details>
 
-<details>
-<summary><h3>🚀 Professional Focus</h3></summary>
+<details open>
+<summary><h3>🚀 Featured Projects</h3></summary>
+<br>
+
+**🏎️ F1 Analytics Dashboard**
+> *Streamlit + FastF1 dashboard for exploring Formula 1 session data.*
+* Lap-time comparison, tire strategy breakdown, driver performance metrics, and fastest-lap telemetry speed comparison.
+* Dynamic season/Grand Prix/session selection instead of a fixed race.
+* Ferrari-inspired dark/red UI theme with styled metric cards.
+* 🔗 [Repo](https://github.com/thathsara27/f1-analytics-dashboard)
+
+**📊 Student Performance Analysis**
+> *Data analysis project exploring what drives student outcomes.*
+* Built with Python, Pandas, and MySQL, visualized in Power BI.
+* Structured around five core analytical questions on a Kaggle dataset.
+* Stretch goal: a simple predictive model for performance outcomes.
+
 <br>
 
 **💻 Full-Stack Development**
-> *"Transforming complex requirements into seamless web experiences."*
-* **Architecture:** Designing MERN stack applications with focus on scalability.
+> *Transforming complex requirements into seamless web experiences.*
+* **Architecture:** Designing MERN and PHP/MySQL applications with a focus on scalability.
 * **API Design:** Building robust RESTful services using Node.js & Express.
 * **Frontend:** Creating responsive interfaces with React and Flutter.
 
 **☁️ Cloud Solutions**
-> *"Connecting data across distributed systems."*
+> *Connecting data across distributed systems.*
 * **Data Integration:** Building custom connectors (e.g., Apache Beam) for data pipelines.
 * **Database Ops:** Managing MongoDB aggregations and MySQL schemas.
 </details>
@@ -118,8 +163,8 @@
 <summary><h3>🎓 Education & Credentials</h3></summary>
 <br>
 
-* **BSc (Hons) in Information Technology**
-  * *SLIIT (Sri Lanka Institute of Information Technology)*
+* **BSc (Hons) in Information Technology / Computer Science**
+  * *SLIIT City University, Colombo, Sri Lanka*
   * Focus: Software Engineering & Application Development
 
 * **Professional Certifications**
@@ -132,7 +177,7 @@
 
 <div align="center">
   <h3>🌐 Let's Collaborate</h3>
-  
+
 | **Socials** | **Contact** | **Portfolio** |
 | :---: | :---: | :---: |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahesh-thathsara-19b989314) | [![Email](https://img.shields.io/badge/Gmail-Write_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thathsaramahesh1227@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-View_Work-181717?style=for-the-badge&logo=github)](https://github.com/thathsara27?tab=repositories) |
@@ -146,8 +191,9 @@ class FullStackEngineer:
         self.role = "Full-Stack Developer"
         self.stack = {
             "frontend": ["React", "Flutter", "Tailwind"],
-            "backend": ["Node.js", "Express", "Python"],
-            "database": ["MongoDB", "MySQL", "Firebase"]
+            "backend": ["Node.js", "Express", "PHP", "Python"],
+            "database": ["MongoDB", "MySQL", "Firebase"],
+            "data": ["Pandas", "Power BI", "Streamlit"]
         }
 
     def collaborate(self):
@@ -155,3 +201,6 @@ class FullStackEngineer:
 
 me = FullStackEngineer()
 me.collaborate()
+```
+
+</div>
