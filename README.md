@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Mahesh%20Thathsara&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Computer%20Science%20Student&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mahesh Thathsara banner"/>
 </div>
 
@@ -71,3 +71,4 @@ Full-stack developer in training, building with MERN and PHP/MySQL. I care about
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
+](https://checkmygit.com/thathsara27?template=github&theme=dark)
