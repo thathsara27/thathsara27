@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Shipping%20polished%20web%20apps%20with%20MERN%20%26%20PHP%2FMySQL;Open%20to%20thoughtful%20collaboration%20%26%20internships;Turning%20data%20into%20insight%20with%20Python%20%26%20Power%20BI)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-thathsara-19b989314) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/27Mahiya) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maheshthathsara1227) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thathsaramahesh1227@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-thathsara-19b989314) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thathsaramahesh1227@gmail.com)
 
 ![Open to internships](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20internships-a855f7?style=flat-square) ![Colombo, Sri Lanka](https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-333?style=flat-square)
 
@@ -17,9 +17,9 @@
 Full-stack developer in training, building with MERN and PHP/MySQL. I care about clean, well-tested code and turning data into useful insight.
 
 - ⌖ **Location** · Colombo, Sri Lanka
-- ⌗ **Experience** · Building projects in Data Science, Analytics & Software Development
+- ⌗ **Experience** · Full-stack web development, data analysis & QA testing
 - ◎ **Education** · BSc (Hons) in Computer Science
-- ⟳ **Learning** · Data Science, Data Analytics, Machine Learning & Python
+- ⟳ **Learning** · Data structures, web development & open source contribution
 - ✦ **Fun fact** · I enjoy turning real-world data into meaningful insights.
 
 ### Stack
@@ -38,11 +38,11 @@ Full-stack developer in training, building with MERN and PHP/MySQL. I care about
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,figma&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=git,docker&theme=dark" alt="DevOps & Cloud"/>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pandas,jupyter&theme=dark" alt="AI / ML"/>
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="AI / ML"/>
 
 ### Languages
 - 🌐 **Sinhala** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
@@ -61,16 +61,6 @@ Full-stack developer in training, building with MERN and PHP/MySQL. I care about
 [![GitHub Streak](https://streak-stats.demolab.com?user=thathsara27&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-### Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
-
-> Requires [Novatorem](https://github.com/novatorem/novatorem) setup
 
 ---
 
